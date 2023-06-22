@@ -256,4 +256,4 @@ Function Prototypes
     * Searching for a node in a binary heap of size `n`.
 
 ## Author
-* Harry Fynn (amoafo.alive@gmail.com) (hamoafo@gmail.com)
+* Harry Fynn Amoafo (amoafo.alive@gmail.com) (hamoafo@gmail.com)
